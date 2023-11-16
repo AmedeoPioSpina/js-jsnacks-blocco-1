@@ -1,5 +1,5 @@
 let inputList = document.querySelectorAll("input");
-let btn = document.querySelector("btn");
+let btn = document.querySelector("button");
 
 btn.addEventListener("click", (e) => {
     e.preventDefault;
